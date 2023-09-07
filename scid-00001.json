@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2019-09/schema",
+  "$id": "https://json-schema.org/draft/2019-09/meta/meta-data",  
+  "$url": "http://scid.infracritical.com/json/scid-00001.json",
+
+  "title": "SCID #00001 - PG&E (2012)",
+  "case_url": "http://scid.infracritical.com/pages/scid-00001",
+
+  "incident_type": "OPERATION FAILURE",
+  "incident_subtype": "RF INTERFERENCE",
+
+  "date_incident": "c. 2012",
+  "date_updated": "17-May-2013 (Friday)",
+  "date_scidmark": "24-Feb-2020 (Monday)"
+}
